@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 
 
-<!--
-**eduarda255555/eduarda255555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Eduarda de Almeida 
 
-Here are some ideas to get you started:
+-Estou estudando no período matutino 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 
+
+de.almeida.eduarda@escola.pr.gov.br
+
+
